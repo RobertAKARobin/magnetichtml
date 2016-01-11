@@ -65,6 +65,9 @@ h2, p, ul{
 p{
   text-align:justify;
 }
+p.important{
+  text-align:center;
+}
 a{
   color:#6699bb;
   cursor:pointer;
@@ -76,6 +79,7 @@ a:hover{
 a.button{
   display:block;
   margin:0 auto;
+  margin-bottom:14px;
   width:100%;
   text-align:center;
   max-width:400px;
@@ -84,7 +88,7 @@ a.button{
   font-size:18px;
   line-height:50px;
   color:#808;
-  border:1px dotted #808;
+  border:1px solid #808;
   transition:background-color 0.2s;
 }
 a.button:hover{

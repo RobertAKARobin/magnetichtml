@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="description" content="Stick the Internet to your fridge." />
     <title>MagneticHTML</title>
+    <base target="_blank" />
     <script src="assets/scripts.js"></script>
     <link rel="stylesheet" href="assets/style.css" />
     <link rel="stylesheet" href="assets/tags.css" />
@@ -48,7 +49,7 @@
 
     <section>
       <h2 class="tags"><span class="w">About</span></h2>
-      <p>Magnetic HTML is inspired by my <a href="http://robertakarobin.com" target="_blank">career</a> teaching web development: I ask students to recreate <a href="http://ga-dc.github.io/belair_biography/" target="_blank">a simple webpage</a> using <a href="http://imgur.com/gallery/F8aER/new" target="_blank">wooden tiles</a>.</p>
+      <p>Magnetic HTML is inspired by my <a href="http://robertakarobin.com" target="_blank">career</a> teaching web development: I ask students to recreate <a href="http://play.magnetichtml.com/belair" target="_blank">a simple webpage</a> using <a href="http://imgur.com/gallery/F8aER/new" target="_blank">wooden tiles</a>.</p>
       <p>Each set includes the tags junior web designers are most likely to use; excluded are the tags junior web designers are most likely to abuse (like &lt;hr/&gt;, tables, and more than one &lt;br/&gt;).</p>
       <p>A great gift for web developers, designers, and anyone else who spends their life on the Internet.</p>
 
@@ -68,6 +69,8 @@ echo tagsFromString(trim(file_get_contents("maker/tags.txt")));
 ?>
         </div>
       </div>
+      <p><a class="button" href="http://play.magnetichtml.com">Up for a challenge?</a></p>
+      <p class="important">Use virtual magnetic HTML tiles to create, save, and share <a href="http://play.magnetichtml.com">your own webpage!</a></p>
     </section>
 
     <section>
