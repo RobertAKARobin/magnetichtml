@@ -66,10 +66,6 @@ window.onload = function(){
   is.ie8 = window.attachEvent ? true : false;
   is.touch = "ontouchstart" in window ? true : false;
 
-  if(location.hash !== "#toggle"){
-    document.getElementById("selfpro").style.display = "block";
-  }
-
   (function makeDraggables(){
     var tags = document.querySelectorAll(".tags>*");
     var listeners = [];
@@ -77,11 +73,4 @@ window.onload = function(){
       listeners.push(new Draggable(tags[x]));
     }
   }());
-
-  (function loadCaptcha(){
-    var script = document.createElement("SCRIPT");
-    script.setAttribute("type", "text/javascript");
-    script.setAttribute("src", "https://www.google.com/recaptcha/api.js");
-    document.getElementsByTagName("head")[0].appendChild(script);
-  })();
 }
