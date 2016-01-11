@@ -69,5 +69,9 @@ echo tagsFromString(trim(file_get_contents("maker/tags.txt")));
         </div>
       </div>
     </section>
+
+    <section>
+      <h2 class="tags"><a class="w" href="http://robertakarobin.com">contact@robertakarobin.com</a></h2>
+    </section>
   </body>
 </html>
