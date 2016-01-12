@@ -21,9 +21,9 @@
   margin:2px;
   border-width:2px;
   border-style:solid;
-  border-color:#fff #ddc #ddc #fff;
+  border-color:#fff #ccc #ccc #fff;
   background-color:#fcfcfc;
-  box-shadow:0px 0px 5px 0px #ddc;
+  box-shadow:0px 0px 5px 0px #ccc;
   cursor:move;
   z-index:100;
   transition: transform 0.1s, box-shadow 0.1s;
@@ -32,10 +32,11 @@
 .tags>*:hover{
   background-color:#fff;
   border-color:#fff #bbb #bbb #fff;
-}
-.tags>*:active{
   transform:rotateZ(-10deg);
   box-shadow:1px 1px 10px 0px #999;
+}
+.tags>*:active{
+  box-shadow:1px 1px 10px 0px #333;
 }
 .tags .w{
   color:black;

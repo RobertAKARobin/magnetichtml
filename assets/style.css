@@ -24,10 +24,7 @@ html{
   line-height:22px;
   font-family:"Andale Mono", monospace;
   color:#333;
-}
-html,
-body:before{
-  background-color:#ffe;
+  background-image:url("img/handmadepaper.png");
 }
 body:before{
   content:"";
@@ -38,7 +35,7 @@ body:before{
   top:0;
   left:0;
   z-index:-1;
-  box-shadow:0px 0px 200px 1px #bba inset;
+  box-shadow:0px 0px 200px 1px #999 inset;
 }
 body{
   max-width:700px;
@@ -46,10 +43,6 @@ body{
   text-align:center;
   padding:20px 0;
 }
-::selection{
-  background-color:#f9f9ff;
-}
-
 
 h2.tags:before{
   content:"";
@@ -69,7 +62,7 @@ p.important{
   text-align:center;
 }
 a{
-  color:#6699bb;
+  color:#69c;
   cursor:pointer;
   transition:color 0.2s;
 }
@@ -106,4 +99,5 @@ img{
   margin:0 auto;
   width:100%;
   max-width:400px;
+  box-shadow:1px 1px 10px 0px #aaa;
 }
