@@ -80,10 +80,15 @@ a.button{
   background-color:#fff;
   font-size:18px;
   line-height:50px;
+  background-color:#fff;
   color:#808;
   border:1px solid #808;
   transition:background-color 0.2s;
   -webkit-transition:background-color 0.2s;
+}
+a.button.primary{
+  background-color:#808;
+  color:#fff;
 }
 a.button:hover{
   background-color:#cac;

@@ -34,9 +34,10 @@
 
     <section>
       <h2>
-        <a class="button" href="http://amzn.to/1G66iB5">$9.99 with Amazon Prime!</a>
+        <a class="button primary" href="http://amzn.to/1G66iB5">$9.99 with Amazon Prime</a>
       </h2>
 
+      <p><a class="button" href="http://play.magnetichtml.com">Try it out online!</a></p>
 
       <p class="images">
         <a href="http://amzn.to/1G66iB5"><img src="assets/img/scatter.jpg" alt="Scattered HTML tiles" /></a>
@@ -66,10 +67,11 @@
 
 require("maker/script.php");
 echo tagsFromString(trim(file_get_contents("maker/tags.txt")));
+
 ?>
         </div>
       </div>
-      <p><a class="button" href="http://play.magnetichtml.com">Up for a challenge?</a></p>
+      <p><a class="button primary" href="http://play.magnetichtml.com">Up for a challenge?</a></p>
       <p class="important">Use virtual magnetic HTML tiles to create, save, and share <a href="http://play.magnetichtml.com">your own webpage!</a></p>
     </section>
 
