@@ -51,8 +51,8 @@ h2.tags:before{
   border-top:2px solid #ccc;
   bottom:-24px;
 }
-h2, p, ul{
-  margin:36px auto;
+h2, p, ul, .button{
+  margin:24px auto;
 }
 
 p{
@@ -70,12 +70,7 @@ a:hover{
   color:blue;
 }
 a.button{
-  display:block;
-  margin:0 auto;
   margin-bottom:14px;
-  width:100%;
-  text-align:center;
-  max-width:400px;
   border-radius:5px;
   background-color:#fff;
   font-size:18px;
@@ -99,10 +94,20 @@ em{
 }
 
 img{
-  display:block;
   border-radius:10px;
-  margin:0 auto;
+  box-shadow:1px 1px 10px 0px #aaa;
+}
+
+a.button,
+img,
+p{
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
   width:100%;
   max-width:400px;
-  box-shadow:1px 1px 10px 0px #aaa;
+}
+
+aside{
+  font-size:10px;
 }

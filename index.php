@@ -35,10 +35,12 @@
     <section>
       <h2>
         <a class="button primary" href="http://amzn.to/1G66iB5">$9.99 with Amazon Prime</a>
-        <a class="button primary" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=534QLZPXCHKLL">$7.50 with PayPal</a>
+        <a class="button primary" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=534QLZPXCHKLL">$7.50 with PayPal International*</a>
       </h2>
 
-      <p><a class="button" href="http://play.magnetichtml.com">Try it out online!</a></p>
+      <a class="button" href="http://play.magnetichtml.com">Up for a challenge?</a>
+
+      <aside><p>*Plus shipping. The magnets have to be sent as packages because they're "nonmachinable" &mdash; magnetic and can't be folded &mdash; so it's a bit pricey if you're ordering just one overseas. I'm sorry!</p></aside>
 
       <p class="images">
         <a href="http://amzn.to/1G66iB5"><img src="assets/img/scatter.jpg" alt="Scattered HTML tiles" /></a>
@@ -72,7 +74,8 @@ echo tagsFromString(trim(file_get_contents("maker/tags.txt")));
 ?>
         </div>
       </div>
-      <p><a class="button primary" href="http://play.magnetichtml.com">Up for a challenge?</a></p>
+
+      <h2><a class="button primary" href="http://play.magnetichtml.com">Up for a challenge?</a></h2>
       <p class="important">Use virtual magnetic HTML tiles to create, save, and share <a href="http://play.magnetichtml.com">your own webpage!</a></p>
     </section>
 
