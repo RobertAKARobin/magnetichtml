@@ -51,7 +51,7 @@
       <p><a href="http://amzn.to/1G66iB5"><img src="assets/img/sheet.jpg" alt="Sheet of HTML tiles" /></a></p>
     </section>
 
-    <section>
+    <section id="buy_biz">
       <h2 class="tags"><span class="w">Want to start a business?</span></h2>
       <p>Take over Magnetic HTML!</p>
       <p>I'm moving across the country soon, and would prefer to not lug my 600+ sheets of Magnetic HTML with me. I like building stuff, but am not much of a salesman.</p>
@@ -63,6 +63,7 @@
         <li>This awesome website and domain name</li>
       </ul>
       <p>I'm looking for $3000 USD, plus shipping. Make an offer to <a href="mailto:contact@robertakarobin.com">contact@robertakarobin.com</a>!</p>
+      <p><a href="http://amzn.to/1G66iB5"><img src="assets/img/poem.jpg" alt="Some beautiful poetry" /></a></p>
     </section>
 
     <section>
