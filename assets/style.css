@@ -100,7 +100,8 @@ img{
 
 a.button,
 img,
-p{
+p,
+ul{
   display:block;
   margin-left:auto;
   margin-right:auto;
@@ -110,4 +111,10 @@ p{
 
 aside{
   font-size:10px;
+}
+ul{
+  text-align:left;
+}
+li{
+  margin-top:10px;
 }

@@ -52,6 +52,20 @@
     </section>
 
     <section>
+      <h2 class="tags"><span class="w">Want to start a business?</span></h2>
+      <p>Take over Magnetic HTML!</p>
+      <p>I'm moving across the country soon, and would prefer to not lug my 600+ sheets of Magnetic HTML with me. I like building stuff, but am not much of a salesman.</p>
+      <p>All this could be yours:</p>
+      <ul>
+        <li>The 600+ units I have in inventory, all packaged and ready to retail</li>
+        <li>The "Magnetic HTML" trademark</li>
+        <li>The <a href="http://www.amazon.com/sp?seller=A379RUVMW618K9">Amazon seller account</a> with a 100% positive reputation, and 4.7 stars</li>
+        <li>This awesome website and domain name</li>
+      </ul>
+      <p>I'm looking for $3000 USD, plus shipping. Make an offer to <a href="mailto:contact@robertakarobin.com">contact@robertakarobin.com</a>!</p>
+    </section>
+
+    <section>
       <h2 class="tags"><span class="w">About</span></h2>
       <p>Magnetic HTML is inspired by my <a href="http://robertakarobin.com" target="_blank">career</a> teaching web development: I ask students to recreate <a href="http://play.magnetichtml.com/belair" target="_blank">a simple webpage</a> using <a href="http://imgur.com/gallery/F8aER/new" target="_blank">wooden tiles</a>.</p>
       <p>Each set includes the tags junior web designers are most likely to use; excluded are the tags junior web designers are most likely to abuse (like &lt;hr/&gt;, tables, and more than one &lt;br/&gt;).</p>
