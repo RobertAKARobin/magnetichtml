@@ -38,17 +38,25 @@
         <a class="button primary" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=534QLZPXCHKLL">$7.50 with PayPal International*</a>
       </h2>
 
-      <a class="button" href="http://play.magnetichtml.com">Up for a challenge?</a>
-
-      <aside><p>*Plus shipping. The magnets have to be sent as packages because they're "nonmachinable" &mdash; magnetic and can't be folded &mdash; so it's a bit pricey if you're ordering just one overseas. I'm sorry!</p></aside>
-
       <p class="images">
         <a href="http://amzn.to/1G66iB5"><img src="assets/img/scatter.jpg" alt="Scattered HTML tiles" /></a>
       </p>
 
-      <p>Made in the USA, and packed and shipped by <a href="http://robertakarobin.com">me</a> from an apartment near Washington, DC. Tiles are .375&quot; (~1cm) tall.</p>
+      <p>Want to learn web design? You don't even need a computer!</p>
+
+      <p>Each sheet of Magnetic HTML contains 153 tags and special characters. It makes a great gift for web developers, designers, and geeks.</p>
 
       <p><a href="http://amzn.to/1G66iB5"><img src="assets/img/sheet.jpg" alt="Sheet of HTML tiles" /></a></p>
+
+      <p>Made in the USA, and packed and shipped by <a href="http://robertakarobin.com">me</a> from an apartment near Washington, DC. Tiles are .375&quot; (~1cm) tall.</p>
+
+      <p><a href="http://amzn.to/1G66iB5"><img src="assets/img/poem.jpg" alt="Some beautiful poetry" /></a></p>
+
+      <p>Shown here combined with the <a href="magneticpoetry.com/collections/themed-kits/products/geek">Magnetic Poetry "Geek" kit</a> (not included).</p>
+
+      <p><a href="http://amzn.to/1G66iB5"><img src="assets/img/fridge_full.jpg" alt="HTML tiles on the fridge" /></a></p>
+
+      <aside><p>* On PayPal it's $7.50 plus shipping. The magnets have to be sent as packages because they're "nonmachinable" &mdash; magnetic and can't be folded &mdash; so it's a bit pricey if you're ordering just one overseas. I'm sorry!</p></aside>
     </section>
 
     <section id="buy_biz">
@@ -63,16 +71,15 @@
         <li>This awesome website and domain name</li>
       </ul>
       <p>I'm looking for $3000 USD, plus shipping. Make an offer to <a href="mailto:contact@robertakarobin.com">contact@robertakarobin.com</a>!</p>
-      <p><a href="http://amzn.to/1G66iB5"><img src="assets/img/poem.jpg" alt="Some beautiful poetry" /></a></p>
     </section>
 
     <section>
       <h2 class="tags"><span class="w">About</span></h2>
       <p>Magnetic HTML is inspired by my <a href="http://robertakarobin.com" target="_blank">career</a> teaching web development: I ask students to recreate <a href="http://play.magnetichtml.com/belair" target="_blank">a simple webpage</a> using <a href="http://imgur.com/gallery/F8aER/new" target="_blank">wooden tiles</a>.</p>
-      <p>Each set includes the tags junior web designers are most likely to use; excluded are the tags junior web designers are most likely to abuse (like &lt;hr/&gt;, tables, and more than one &lt;br/&gt;).</p>
-      <p>A great gift for web developers, designers, and anyone else who spends their life on the Internet.</p>
 
-      <p><a href="http://amzn.to/1G66iB5"><img src="assets/img/fridge_full.jpg" alt="HTML tiles on the fridge" /></a></p>
+      <p><a href="http://amzn.to/1G66iB5"><img src="assets/img/wood.jpg" alt="The original wooden HTML tiles" /></a></p>
+
+      <p>Each set includes the tags junior web designers are most likely to use; excluded are the tags junior web designers are most likely to abuse (like &lt;hr/&gt;, tables, and more than one &lt;br/&gt;).</p>
     </section>
 
     <section id="play">
