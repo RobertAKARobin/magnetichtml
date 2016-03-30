@@ -50,9 +50,11 @@
 
       <p>Made in the USA, and packed and shipped by <a href="http://robertakarobin.com">me</a> from an apartment near Washington, DC. Tiles are .375&quot; (~1cm) tall.</p>
 
-      <p><a href="http://amzn.to/1G66iB5"><img src="assets/img/poem.jpg" alt="Some beautiful poetry" /></a></p>
+      <p><a href="http://magneticpoetry.com/collections/themed-kits/products/geek"><img src="assets/img/poem.jpg" alt="Some beautiful poetry" /></a></p>
 
-      <p>Shown here combined with the <a href="magneticpoetry.com/collections/themed-kits/products/geek">Magnetic Poetry "Geek" kit</a> (not included).</p>
+      <p>Shown above and below combined with the <a href="http://magneticpoetry.com/collections/themed-kits/products/geek">Magnetic Poetry "Geek" kit</a> (not included).</p>
+
+      <p><a href="http://magneticpoetry.com/collections/themed-kits/products/geek"><img src="assets/img/jacobs.jpg" alt="Submitted by a user!" /></a></p>
 
       <p><a href="http://amzn.to/1G66iB5"><img src="assets/img/fridge_full.jpg" alt="HTML tiles on the fridge" /></a></p>
 
