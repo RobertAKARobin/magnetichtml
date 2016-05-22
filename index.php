@@ -41,9 +41,9 @@
       
       <p><strong>Why?</strong> My wife and I are moving from DC to Minnesota! We'd like to not have to move these with us. Unfortunately we can't afford to just give them away.</p>
       
-      <p>You could also just <a href="#buy_biz" target="_self">buy the business for cheap!</a></p>
-      
       <a class="button" href="http://amzn.to/1G66iB5">4.7 stars on Amazon!</a>
+      
+      <aside><p>Note: In my infinite wisdom I made two typos on these: &lt;!-Made in the USA-&gt; should have two hyphens on either end, and &amp;tradem; should be &amp;trade;</p></aside>
 
       <p class="images">
         <a href="http://amzn.to/1G66iB5"><img src="assets/img/scatter.jpg" alt="Scattered HTML tiles" /></a>
@@ -67,7 +67,7 @@
       
     </section>
 
-    <section id="buy_biz">
+    <!-- <section id="buy_biz">
       <h2 class="tags"><span class="w">Want to start a business?</span></h2>
       <p>Take over Magnetic HTML!</p>
       <p>I'm moving across the country soon, and would prefer to not lug my 600+ sheets of Magnetic HTML with me. I like building stuff, but am not much of a salesman.</p>
@@ -79,7 +79,7 @@
         <li>This awesome website and domain name</li>
       </ul>
       <p>Make an offer to <a href="mailto:contact@robertakarobin.com">contact@robertakarobin.com</a>!</p>
-    </section>
+    </section> -->
 
     <section>
       <h2 class="tags"><span class="w">About</span></h2>
