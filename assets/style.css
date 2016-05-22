@@ -71,25 +71,30 @@ a:hover{
 }
 a.button{
   margin-bottom:14px;
-  border-radius:5px;
+  border-radius:10px;
   background-color:#fff;
   font-size:18px;
   line-height:50px;
   background-color:#fff;
   color:#808;
-  border:1px solid #808;
   transition:background-color 0.2s;
   -webkit-transition:background-color 0.2s;
 }
 a.button.primary{
-  background-color:#808;
+  background-color:#c0c;
   color:#fff;
+  box-shadow: 0 0 20px 0 #404 inset,
+              0 0 10px 0 #666;
 }
 a.button:hover{
-  background-color:#cac;
+  background-color:#eae;
 }
 em{
   font-style:italic;
+  text-decoration:underline;
+}
+strong{
+  font-weight:bold;
   text-decoration:underline;
 }
 

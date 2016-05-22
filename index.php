@@ -34,9 +34,16 @@
 
     <section>
       <h2>
-        <a class="button primary" href="http://amzn.to/1G66iB5">$9.99 with Amazon Prime</a>
-        <a class="button primary" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=534QLZPXCHKLL">$7.50 with PayPal International*</a>
+        <a class="button primary" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=534QLZPXCHKLL">SALE: $3.00 via PayPal!<br /><strong>Free shipping in the US!</strong></a>
       </h2>
+      
+      <p>Shipping is $3.33 to Canada, and $4.97 everywhere else.</p>
+      
+      <p><strong>Why?</strong> My wife and I are moving from DC to Minnesota! We'd like to not have to move these with us. Unfortunately we can't afford to just give them away.</p>
+      
+      <p>You could also just <a href="#buy_biz" target="_self">buy the business for cheap!</a></p>
+      
+      <a class="button" href="http://amzn.to/1G66iB5">4.7 stars on Amazon!</a>
 
       <p class="images">
         <a href="http://amzn.to/1G66iB5"><img src="assets/img/scatter.jpg" alt="Scattered HTML tiles" /></a>
@@ -57,8 +64,7 @@
       <p><a href="http://magneticpoetry.com/collections/themed-kits/products/geek"><img src="assets/img/jacobs.jpg" alt="Submitted by a user!" /></a></p>
 
       <p><a href="http://amzn.to/1G66iB5"><img src="assets/img/fridge_full.jpg" alt="HTML tiles on the fridge" /></a></p>
-
-      <aside><p>* On PayPal it's $7.50 plus shipping. The magnets have to be sent as packages because they're "nonmachinable" &mdash; magnetic and can't be folded &mdash; so it's a bit pricey if you're ordering just one overseas. I'm sorry!</p></aside>
+      
     </section>
 
     <section id="buy_biz">
@@ -72,7 +78,7 @@
         <li>The <a href="http://www.amazon.com/sp?seller=A379RUVMW618K9">Amazon seller account</a> with a 100% positive reputation, and 4.7 stars</li>
         <li>This awesome website and domain name</li>
       </ul>
-      <p>I'm looking for $3000 USD, plus shipping. Make an offer to <a href="mailto:contact@robertakarobin.com">contact@robertakarobin.com</a>!</p>
+      <p>Make an offer to <a href="mailto:contact@robertakarobin.com">contact@robertakarobin.com</a>!</p>
     </section>
 
     <section>
