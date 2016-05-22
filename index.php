@@ -33,17 +33,14 @@
     </header>
 
     <section>
-      <h2>
-        <a class="button primary" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=534QLZPXCHKLL">SALE: $3.00 via PayPal!<br /><strong>Free shipping in the US!</strong></a>
-      </h2>
-      
-      <p>Shipping is $3.33 to Canada, and $4.97 everywhere else.</p>
-      
-      <p><strong>Why?</strong> My wife and I are moving from DC to Minnesota! We'd like to not have to move these with us. Unfortunately we can't afford to just give them away.</p>
-      
-      <a class="button" href="http://amzn.to/1G66iB5">4.7 stars on Amazon!</a>
-      
-      <aside><p>Note: In my infinite wisdom I made two typos on these: &lt;!-Made in the USA-&gt; should have two hyphens on either end, and &amp;tradem; should be &amp;trade;</p></aside>
+
+      <a class="button primary" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=534QLZPXCHKLL">SALE: $3.00 with <strong>FREE SHIPPING!</strong></a>
+
+      <p><strong>Why?</strong> My wife and I are moving from DC to Minnesota! We'd like to not have to move these with us, but can't afford to give them away.</p>
+
+      <p>Magnetic HTML has <a href="http://amzn.to/1G66iB5">4.7 stars on Amazon</a>, but the sale's on <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=534QLZPXCHKLL">PayPal</a>. Shipping is free to the US, $3.33 to Canada, and $4.97 elsewhere. (Nothing personal; just high postage.) <a href="#play" target="_self">Try them online!</a></p>
+
+      <aside><p>Note: In my infinite wisdom I made two typos: there should be 4 hyphens in &lt;!-Made in the USA-&gt;, and &amp;tradem; should be &amp;trade;.</p></aside>
 
       <p class="images">
         <a href="http://amzn.to/1G66iB5"><img src="assets/img/scatter.jpg" alt="Scattered HTML tiles" /></a>
