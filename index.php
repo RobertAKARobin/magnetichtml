@@ -17,7 +17,6 @@
         <span>&lt;h1&gt;</span>
         <span class="w">Magnetic</span>
         <span class="w">HTML</span>
-        <span class="w">tiles</span>
         <span>&lt;/h1&gt;</span>
       </h1>
       <p class="tags">
@@ -34,11 +33,7 @@
 
     <section>
 
-      <a class="button primary" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=534QLZPXCHKLL">SALE: $3.00 with <strong>FREE SHIPPING!</strong></a>
-
-      <p><strong>Why?</strong> My wife and I are moving from DC to Minnesota! We'd like to not have to move these with us, but can't afford to give them away.</p>
-
-      <p>Magnetic HTML has <a href="http://amzn.to/1G66iB5">4.7 stars on Amazon</a>, but the sale's on <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=534QLZPXCHKLL">PayPal</a>. Shipping is free to the US, $3.33 to Canada, and $4.97 elsewhere. (Nothing personal; just high postage.) <a href="#play" target="_self">Try them online!</a></p>
+      <a class="button primary" href="http://amzn.to/1G66iB5">$6 on Amazon Prime! (&starf;4.7)</a>
 
       <aside><p>Note: In my infinite wisdom I made two typos: there should be 4 hyphens in &lt;!-Made in the USA-&gt;, and &amp;tradem; should be &amp;trade;.</p></aside>
 
@@ -61,7 +56,7 @@
       <p><a href="http://magneticpoetry.com/collections/themed-kits/products/geek"><img src="assets/img/jacobs.jpg" alt="Submitted by a user!" /></a></p>
 
       <p><a href="http://amzn.to/1G66iB5"><img src="assets/img/fridge_full.jpg" alt="HTML tiles on the fridge" /></a></p>
-      
+
     </section>
 
     <!-- <section id="buy_biz">
